@@ -3,11 +3,33 @@
 # ----------------------- #
 
 url: http://recarreira.github.io
-title: Renata Carreira, <br><em>desenvolvedora</em>, <br>carioca
+title: Renata Carreira
 subtitle: 
+fulltitle: Renata Carreira, <br><em>desenvolvedora</em>, <br>carioca
 author: Renata Carreira
 simple_search: http://google.com/search
+about_content: Renata Carreira, estudante, desenvolvedora, gamer, DCnauta, RPGista, viciada em series, que brinca de pintar quadros nas horas vagas e desconhece vida social fora de uma mesa de jogo. Ah, e que mora com alguém.
 description:
+
+# All text content for both languages:
+pt-BR: &pt-BR
+  recent_projects: projetos recentes
+  recent_posts: últimos artigos
+  archive: arquivo
+  found: encontre-me
+  contact: contato
+  about: sobre mim
+
+en-US: &en-US
+  recent_projects: recent project
+  recent_posts: last posts
+  archive: arquives
+  found: found on
+  contact: contact at
+  about: about me
+
+i18n:
+  <<: *pt-BR
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +41,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: re.carreira@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -93,3 +115,5 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+linkedin_user:
