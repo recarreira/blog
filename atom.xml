@@ -4,7 +4,7 @@
   <title><![CDATA[Renata Carreira]]></title>
   <link href="http://recarreira.github.io/atom.xml" rel="self"/>
   <link href="http://recarreira.github.io/"/>
-  <updated>2013-05-02T21:12:46-03:00</updated>
+  <updated>2013-05-08T15:43:22-03:00</updated>
   <id>http://recarreira.github.io/</id>
   <author>
     <name><![CDATA[Renata Carreira]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Olá, mundo]]></title>
+    <link href="http://recarreira.github.io/blog/2013/05/08/ola-mundo/"/>
+    <updated>2013-05-08T00:23:00-03:00</updated>
+    <id>http://recarreira.github.io/blog/2013/05/08/ola-mundo</id>
+    <content type="html"><![CDATA[<p>Iniciando o blog com o intuito de compartilhar experiências e informações sobre programação, desenvolvimento e tecnologia em geral. Vou procurar focar em projetos e iniciativas nacionais - até porque acho que valorização e incentivo nunca são demais -, por isso optei por escrever em <strong>português</strong>.</p>
+
+<!-- more -->
+
+
+<h3>Gerado com_</h3>
+
+<p>Escolhi o <a href="http://octopress.org/">Octopress</a>, não só pela facilidade de deploy, mas por sinceramente achar mais agradável escrever em <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a> do que usar alguma interface/editor. Não constumo ser muito fã de interfaces e coisas visuais.</p>
+
+<h3>Colorido por_</h3>
+
+<p>O <a href="https://github.com/recarreira/pinkfox-pt-br">tema</a> é um fork do <a href="https://github.com/sevenadrian/foxslide">foxlide</a>. A tradução foi uma idéia do <a href="http://robertosoares.me">Roberto Soares</a>, que deve escrever sobre isso no <a href="http://blog.robertosoares.me">blog</a> dele em breve.</p>
+
+<h3>Com o objetivo de_</h3>
+
+<p>Já fiz projetos utilizando <strong>Python</strong> e <strong>Django</strong> e agora estou começando a aprender <strong>Ruby on Rails</strong>, inicialmente para projetos pessoais. Em função disso, provavelmente alguns posts iniciais serão sobre as minhas impressões sobre essa transição.</p>
+]]></content>
+  </entry>
   
 </feed>
