@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Olá, mundo"
+date: 2013-05-08 00:23
+comments: true
+categories: 
+---
+
+
+Iniciando o blog com o intuito de compartilhar experiências e informações sobre programação, desenvolvimento e tecnologia em geral. Vou procurar focar em projetos e iniciativas nacionais - até porque acho que valorização e incentivo nunca são demais -, por isso optei por escrever em __português__.
+
+<!-- more -->
+
+### Gerado com_
+Escolhi o [Octopress](http://octopress.org/), não só pela facilidade de deploy, mas por sinceramente achar mais agradável escrever em [Markdown](http://en.wikipedia.org/wiki/Markdown) do que usar alguma interface/editor. Não constumo ser muito fã de interfaces e coisas visuais.
+
+### Colorido por_
+O [tema](https://github.com/recarreira/pinkfox-pt-br) é um fork do [foxlide](https://github.com/sevenadrian/foxslide). A tradução foi uma idéia do [Roberto Soares](http://robertosoares.me), que deve escrever sobre isso no [blog](http://blog.robertosoares.me) dele em breve.
+
+### Com o objetivo de_
+Já fiz projetos utilizando __Python__ e __Django__ e agora estou começando a aprender __Ruby on Rails__, inicialmente para projetos pessoais. Em função disso, provavelmente alguns posts iniciais serão sobre as minhas impressões sobre essa transição.
