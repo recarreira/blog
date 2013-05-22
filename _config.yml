@@ -16,7 +16,7 @@ pt-BR: &pt-BR
   recent_projects: projetos recentes
   recent_posts: últimos artigos
   archive: arquivo
-  found: encontre-me
+  found: contate-me
   contact: contato
   about: sobre mim
 
@@ -38,10 +38,10 @@ i18n:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: http://feeds.feedburner.com/RenataCarreiraDev
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: re.carreira@gmail.com
+email: contato@renatacarreira.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
