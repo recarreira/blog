@@ -4,7 +4,7 @@
   <title><![CDATA[Renata Carreira]]></title>
   <link href="http://recarreira.github.io/atom.xml" rel="self"/>
   <link href="http://recarreira.github.io/"/>
-  <updated>2013-05-20T21:08:13-03:00</updated>
+  <updated>2013-05-22T15:44:32-03:00</updated>
   <id>http://recarreira.github.io/</id>
   <author>
     <name><![CDATA[Renata Carreira]]></name>
@@ -12,6 +12,83 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Code School - Dia da toalha!]]></title>
+    <link href="http://recarreira.github.io/blog/2013/05/21/code-school-dia-da-toalha/"/>
+    <updated>2013-05-21T17:19:00-03:00</updated>
+    <id>http://recarreira.github.io/blog/2013/05/21/code-school-dia-da-toalha</id>
+    <content type="html"><![CDATA[<p>Pra quem não conhece, o <a href="http://www.codeschool.com/">Code School</a> está dando <a href="http://www.codeschool.com/free-weekend">um final de semana grátis</a> para usufruir de <strong>todos</strong> os seus cursos online. <!-- more --> A má notícia é que isso é válido só para quem <strong>não é cadastrado no site</strong>.</p>
+
+<p>A promoção vale para os dias 25 e 26 de maio, e a idéia é comemorar o dia <em><strike>do orgulho nerd</strike></em> da toalha (25/05).</p>
+
+<h3>Cursos Gratuitos</h3>
+
+<p>Alguns cursos muito bons são abertos mesmo para quem não possui conta paga. Eu mesma já fiz alguns, e ainda pretendo fazer outros.
+Em sua maioria, os cursos gratuitos são introdutórios, onde os cursos pagos se aperfeiçoam mais para frente. Desta forma, acho válido dar uma checada.</p>
+
+<p>Quem sabe não valem uma maratona de estudos até o final de semana, como base para os cursos fechados?</p>
+
+<h4>Ruby Path:</h4>
+
+<ul>
+<li><a href="http://www.codeschool.com/courses/try-ruby">Try Ruby</a></li>
+<li><a href="http://www.codeschool.com/courses/rails-for-zombies-redux">Rails for Zombies</a></li>
+<li><a href="http://www.codeschool.com/courses/rails-for-zombies-2">Rails for Zombies 2</a></li>
+</ul>
+
+
+<h4>JavaScript Path:</h4>
+
+<ul>
+<li><a href="http://www.codeschool.com/courses/try-jquery">Try jQuery</a></li>
+</ul>
+
+
+<h4>IOS Path:</h4>
+
+<ul>
+<li><a href="http://www.codeschool.com/courses/try-objective-c">Try Objective-C</a></li>
+</ul>
+
+
+<h4>Electives Path:</h4>
+
+<ul>
+<li><a href="http://www.codeschool.com/courses/try-r">Try R</a></li>
+<li><a href="http://www.codeschool.com/courses/try-git">Try Git</a></li>
+<li><a href="http://www.codeschool.com/courses/discover-devtools">Discover DevTools</a></li>
+</ul>
+
+
+<h3>Experiência</h3>
+
+<p>Nunca paguei nenhum mês lá, mas <a href="http://www.codeschool.com/users/recarreira">já fiz alguns cursos</a> gratuitos.
+Num geral, do pouco que vi, os cursos são bons. Tem aquele diferencial de não ter que instalar nada. Você entra, assiste um vídeo em alguns casos, escreve umas linhas de código, vê funcionando e sai.</p>
+
+<p>Isso torna perfeito para ser feito em qualquer lugar, já que você não precisa de todo um ambiente preparado para isso. Cai como uma luva para pessoas que não tem tempo.</p>
+
+<p>Por outro lado, quando fiz o <strong>Zombie Rails</strong>, senti muita falta de ter o que instalar. Terminei o curso e continuei na estaca zero. Tive que procurar o que instalar, como instalar, e por ai vai.</p>
+
+<p>Já quando iniciei o <strong>Zombie Rails 2</strong>, o curso já começa dizendo faltar a parte de instalação no primeiro. Te enche de links e formas de fazer, te mostra como fazer coisas direto do terminal (coisa que gosto bastante). Mas, veja só, isso você <strong>poderia</strong> fazer, não precisava. Continuava podendo fazer tudo pelo próprio site, sem precisar ter nada configurado para prosseguir com o curso e colocar as coisas em prática.</p>
+
+<p>O <strong>Try Git</strong> eu fiz mais por curiosidade do que o curso abordaria, e como. Foi uma grande surpresa. Além do curso ser bom, bem explicadinho e totalmente prático, um detalhe fez toda a diferença: <strong>as dicas da direita</strong>.
+Até eu, que já usava Git, aprendi bastante por causa delas.</p>
+
+<hr />
+
+<h4>Falando em toalha e desenvolvimento_</h4>
+
+<p>Três meninas do RJ criaram um blog chamado <a href="http://toalhatech.com/">ToalhaTech</a> para divulgar os eventos relacionados a programação que ocorrem por aqui.</p>
+
+<hr />
+
+<h4>Dia da toalha?</h4>
+
+<p>Não sabe o que é o dia da toalha?
+Sugiro uma lida no <a href="http://pt.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy">Guia do Mochileiro das Galáxias</a>, que inclusive está quase de graça <a href="http://www.submarino.com.br/produto/110092217/kit-livros-colecao-o-guia-do-mochileiro-das-galaxias-edicao-economica-5-volumes-">aqui</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Olá, mundo]]></title>
