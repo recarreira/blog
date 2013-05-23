@@ -16,9 +16,10 @@ pt-BR: &pt-BR
   recent_projects: projetos recentes
   recent_posts: últimos artigos
   archive: arquivo
-  found: contate-me
+  found: contato
   contact: contato
   about: sobre mim
+  rss_title: assine
 
 en-US: &en-US
   recent_projects: recent project
@@ -27,6 +28,7 @@ en-US: &en-US
   found: found on
   contact: contact at
   about: about me
+  rss_title: feed
 
 i18n:
   <<: *pt-BR
@@ -83,7 +85,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 github_user: recarreira
 github_repo_count: 0
 github_show_profile_link: true
-github_skip_forks: true
+github_skip_forks: false
 
 # Twitter
 twitter_user: Renata_Carreira
@@ -95,7 +97,7 @@ google_plus_one_size: small
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: 
+googleplus_user:
 googleplus_hidden: true
 
 # Pinboard
@@ -106,6 +108,33 @@ pinboard_count: 3
 delicious_user:
 delicious_count: 3
 
+# About.me
+aboutme_user: re.carreira
+
+# Facebook
+facebook_user:
+
+# Linkedin
+linkedin_user:
+
+# Foursquare
+foursquare_user:
+
+# deviantART
+deviantart_user:
+
+# Flickr
+flickr_user:
+
+# Last.fm
+lastfm_user:
+
+# stack overflow
+stackoverflow_user:
+
+# Quora
+quora_user:
+
 # Disqus Comments
 disqus_short_name: renatacarreira
 disqus_show_comment_count: true
@@ -115,5 +144,3 @@ google_analytics_tracking_id: UA-41037789-1
 
 # Facebook Like
 facebook_like: true
-
-linkedin_user:
