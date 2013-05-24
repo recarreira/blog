@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: PythOnRio | Renata Carreira]]></title>
+  <link href="http://recarreira.github.io/blog/categories/pythonrio/atom.xml" rel="self"/>
+  <link href="http://recarreira.github.io/"/>
+  <updated>2013-05-23T22:32:58-03:00</updated>
+  <id>http://recarreira.github.io/</id>
+  <author>
+    <name><![CDATA[Renata Carreira]]></name>
+    <email><![CDATA[contato@renatacarreira.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Almoço PythOnRio @ Barra da Tijuca]]></title>
+    <link href="http://recarreira.github.io/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/"/>
+    <updated>2013-05-23T19:32:00-03:00</updated>
+    <id>http://recarreira.github.io/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca</id>
+    <content type="html"><![CDATA[<p>Hoje tivemos o primeiro almoço da comunidade PythOnRio na Barra da Tijuca.</p>
+
+<!-- more -->
+
+
+<p>Foi no restaurante Folleto, no Extra 24h da Barra, e contou com a presença do <a href="https://twitter.com/viniciusban">Vinícius Assef</a>, <a href="https://twitter.com/binhojansen">Fábio Jansen</a>, <a href="https://twitter.com/bt1">Roberto Soares</a> e eu (<a href="https://twitter.com/Renata_Carreira">Renata Carreira</a>), por volta das 12:30h.</p>
+
+<p>A idéia é fazer um "fork" do evento que já acontece no centro, para o pessoal que trabalha/mora/estuda nessa região e não tem como se deslocar pra lá.</p>
+
+<h3>Como foi</h3>
+
+<p>A primeira edição foi praticamente decidida no mesmo dia, pela manhã, umas 2 horas antes. Um fato interessante é que dentre as 4 pessoas que foram (bastante gente, pelo tempo de "planejamento"), nenhuma trabalhava com Python atualmente. Chegamos a conclusão de que quem estuda Python é porque <strong>gosta</strong> mesmo, definitivamente não é pelo mercado de trabalho.</p>
+
+<p>O papo rolou solto, e já brotaram idéias e iniciativas muito bacanas só nesse primeiro dia, além da troca de experiências e boas risadas.</p>
+
+<hr />
+
+<h3>Aparece aí</h3>
+
+<p>Vamos repetir a dose todas as quintas-feiras, no mesmo no mesmo Bat-canal, no mesmo Bat-horário.</p>
+
+<p>O lugar fica esse por enquanto, até vermos onde se concentra a maior parte das pessoas e fica mais interessante para todo mundo.</p>
+
+<p>Lembrando que não precisa ser ativo no grupo da comunidade, nem nada do tipo para aparecer; todos são muito bem-vindos. Principalmente os curiosos que querem conhecer sobre a linguagem, e - é claro - pessoas novas.</p>
+
+<h4>Quando?</h4>
+
+<p>Todas as quintas-feiras, 12:30h.</p>
+
+<h4>Onde?</h4>
+
+<p>Restaurante Folleto</p>
+
+<p>Extra - Avenida das Américas.</p>
+
+<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?ie=UTF8&amp;cid=10486755209797028685&amp;q=Extra&amp;gl=BR&amp;hl=pt-BR&amp;t=m&amp;ll=-23.001854,-43.327074&amp;spn=0.011851,0.021415&amp;z=15&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?ie=UTF8&amp;cid=10486755209797028685&amp;q=Extra&amp;gl=BR&amp;hl=pt-BR&amp;t=m&amp;ll=-23.001854,-43.327074&amp;spn=0.011851,0.021415&amp;z=15&amp;source=embed" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+
+]]></content>
+  </entry>
+  
+</feed>
