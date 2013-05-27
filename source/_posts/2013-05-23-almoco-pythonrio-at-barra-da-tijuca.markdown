@@ -22,7 +22,7 @@ O papo rolou solto, e já brotaram idéias e iniciativas muito bacanas só nesse
 
 ### Aparece aí
 
-Vamos repetir a dose todas as quintas-feiras, no mesmo no mesmo Bat-canal, no mesmo Bat-horário.
+Vamos repetir a dose todas as quintas-feiras, no mesmo Bat-canal, no mesmo Bat-horário.
 
 O lugar fica esse por enquanto, até vermos onde se concentra a maior parte das pessoas e fica mais interessante para todo mundo.
 
