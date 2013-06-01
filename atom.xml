@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Renata Carreira]]></title>
-  <link href="http://recarreira.github.io/blog/atom.xml" rel="self"/>
-  <link href="http://recarreira.github.io/blog/"/>
-  <updated>2013-05-27T21:06:29-03:00</updated>
-  <id>http://recarreira.github.io/blog/</id>
+  <link href="http://dev.renatacarreira.com/atom.xml" rel="self"/>
+  <link href="http://dev.renatacarreira.com/"/>
+  <updated>2013-06-01T01:43:43-03:00</updated>
+  <id>http://dev.renatacarreira.com/</id>
   <author>
     <name><![CDATA[Renata Carreira]]></name>
     <email><![CDATA[contato@renatacarreira.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Almoço PythOnRio @ Barra da Tijuca]]></title>
-    <link href="http://recarreira.github.io/blog/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/"/>
+    <link href="http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/"/>
     <updated>2013-05-23T19:32:00-03:00</updated>
-    <id>http://recarreira.github.io/blog/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca</id>
+    <id>http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca</id>
     <content type="html"><![CDATA[<p>Hoje tivemos o primeiro almoço da comunidade PythOnRio na Barra da Tijuca.</p>
 
 <!-- more -->
@@ -63,9 +63,9 @@
   
   <entry>
     <title type="html"><![CDATA[Code School - Dia da toalha!]]></title>
-    <link href="http://recarreira.github.io/blog/blog/2013/05/21/code-school-dia-da-toalha/"/>
+    <link href="http://dev.renatacarreira.com/blog/2013/05/21/code-school-dia-da-toalha/"/>
     <updated>2013-05-21T17:19:00-03:00</updated>
-    <id>http://recarreira.github.io/blog/blog/2013/05/21/code-school-dia-da-toalha</id>
+    <id>http://dev.renatacarreira.com/blog/2013/05/21/code-school-dia-da-toalha</id>
     <content type="html"><![CDATA[<p>Pra quem não conhece, o <a href="http://www.codeschool.com/">Code School</a> está dando <a href="http://www.codeschool.com/free-weekend">um final de semana grátis</a> para usufruir de <strong>todos</strong> os seus cursos online. <!-- more --> A má notícia é que isso é válido só para quem <strong>não é cadastrado no site</strong>.</p>
 
 <p>A promoção vale para os dias 25 e 26 de maio, e a idéia é comemorar o dia <em><strike>do orgulho nerd</strike></em> da toalha (25/05).</p>
@@ -143,9 +143,9 @@ Sugiro uma lida no <a href="http://pt.wikipedia.org/wiki/The_Hitchhiker's_Guide_
   
   <entry>
     <title type="html"><![CDATA[Olá, mundo]]></title>
-    <link href="http://recarreira.github.io/blog/blog/2013/05/08/ola-mundo/"/>
+    <link href="http://dev.renatacarreira.com/blog/2013/05/08/ola-mundo/"/>
     <updated>2013-05-08T00:23:00-03:00</updated>
-    <id>http://recarreira.github.io/blog/blog/2013/05/08/ola-mundo</id>
+    <id>http://dev.renatacarreira.com/blog/2013/05/08/ola-mundo</id>
     <content type="html"><![CDATA[<p>Iniciando o blog com o intuito de compartilhar experiências e informações sobre programação, desenvolvimento e tecnologia em geral.</p>
 
 <!-- more -->

@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://recarreira.github.io/blog/blog/2013/05/08/ola-mundo/</loc>
+        <loc>http://dev.renatacarreira.com/blog/2013/05/08/ola-mundo/</loc>
         <lastmod>2013-05-27T21:03:57-03:00</lastmod>
     </url>
     <url>
-        <loc>http://recarreira.github.io/blog/blog/2013/05/21/code-school-dia-da-toalha/</loc>
+        <loc>http://dev.renatacarreira.com/blog/2013/05/21/code-school-dia-da-toalha/</loc>
         <lastmod>2013-05-27T21:03:57-03:00</lastmod>
     </url>
     <url>
         <loc>
-            http://recarreira.github.io/blog/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/
+            http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/
         </loc>
         <lastmod>2013-05-27T21:03:57-03:00</lastmod>
     </url>
     <url>
-        <loc>http://recarreira.github.io/blog/blog/archives/</loc>
+        <loc>http://dev.renatacarreira.com/blog/archives/</loc>
         <lastmod>2013-05-27T21:03:57-03:00</lastmod>
     </url>
     <url>
-        <loc>http://recarreira.github.io/blog/</loc>
+        <loc>http://dev.renatacarreira.com/</loc>
         <lastmod>2013-05-27T21:03:58-03:00</lastmod>
     </url>
 </urlset>

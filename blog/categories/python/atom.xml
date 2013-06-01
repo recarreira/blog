@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Python, | Renata Carreira]]></title>
-  <link href="http://recarreira.github.io/blog/blog/categories/python/atom.xml" rel="self"/>
-  <link href="http://recarreira.github.io/blog/"/>
-  <updated>2013-05-27T21:06:29-03:00</updated>
-  <id>http://recarreira.github.io/blog/</id>
+  <link href="http://dev.renatacarreira.com/blog/categories/python/atom.xml" rel="self"/>
+  <link href="http://dev.renatacarreira.com/"/>
+  <updated>2013-06-01T01:43:43-03:00</updated>
+  <id>http://dev.renatacarreira.com/</id>
   <author>
     <name><![CDATA[Renata Carreira]]></name>
     <email><![CDATA[contato@renatacarreira.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Almoço PythOnRio @ Barra da Tijuca]]></title>
-    <link href="http://recarreira.github.io/blog/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/"/>
+    <link href="http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/"/>
     <updated>2013-05-23T19:32:00-03:00</updated>
-    <id>http://recarreira.github.io/blog/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca</id>
+    <id>http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca</id>
     <content type="html"><![CDATA[<p>Hoje tivemos o primeiro almoço da comunidade PythOnRio na Barra da Tijuca.</p>
 
 <!-- more -->
