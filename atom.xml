@@ -4,7 +4,7 @@
   <title><![CDATA[Renata Carreira]]></title>
   <link href="http://dev.renatacarreira.com/atom.xml" rel="self"/>
   <link href="http://dev.renatacarreira.com/"/>
-  <updated>2013-06-07T12:36:28-03:00</updated>
+  <updated>2013-06-24T22:40:02-03:00</updated>
   <id>http://dev.renatacarreira.com/</id>
   <author>
     <name><![CDATA[Renata Carreira]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Aprenda a programar]]></title>
+    <link href="http://dev.renatacarreira.com/blog/2013/06/24/aprenda-a-programar/"/>
+    <updated>2013-06-24T17:28:00-03:00</updated>
+    <id>http://dev.renatacarreira.com/blog/2013/06/24/aprenda-a-programar</id>
+    <content type="html"><![CDATA[<p>Na faculdade, nas listas de e-mail, nos grupos de discussão, nos fóruns, nos comentários de blogs, no twitter - todo desenvolvedor em algum momento é abordado com:</p>
+
+<ul>
+<li><em>&#8220;onde você aprendeu isso?&#8221;</em></li>
+<li><em>&#8220;você conhece algum curso online disso?&#8221;</em></li>
+<li><em>&#8220;tem algum livro para iniciantes?&#8221;</em></li>
+<li><em>&#8220;indica algum tutorial?&#8221;</em></li>
+</ul>
+
+
+<p>De tanto ouvir essas perguntas, nasceu o <strong><a href="http://learnhowtocode.in">Learn How to Code</a></strong>.</p>
+
+<!-- more -->
+
+
+<p>Inicialmente contando com <a href="http://learnhowtocode.in/python/">Python</a> e <a href="http://learnhowtocode.in/ruby/">Ruby</a> como linguagens de programação, <a href="http://learnhowtocode.in/django/">Django</a> e <a href="http://learnhowtocode.in/rails/">Rails</a> como frameworks e a ferramenta <a href="http://learnhowtocode.in/git/">Git</a>, a idéia é <strong>reunir materiais e cursos online</strong> (gratuitos ou não, com a devida sinalização) <strong>para quem quer aprender a programar</strong>.</p>
+
+<h3>Como contribuir?</h3>
+
+<p>Instruções encontram-se no próprio <a href="https://github.com/recarreira/learnhowtocode.in">repositório</a>, contando também com uma <a href="https://github.com/recarreira/learnhowtocode.in/blob/master/README-pt-br.md">versão em português do README</a>.</p>
+
+<h3>Que tópicos podem ser abordados?</h3>
+
+<p>É só pensar o seguinte: o que um futuro desenvolvedor precisa saber? Uma <strong>linguagem de programação</strong>? Algum <strong>framework web</strong>? Um <strong>editor de texto</strong> ou <strong>IDE</strong>? Um ou mais <strong>bancos de dados</strong>? Soluções de <strong>versionamento</strong>, <strong>deploy</strong>, <strong>automação</strong>, <strong>testes</strong>?</p>
+
+<h3>Com quais línguas posso contribuir?</h3>
+
+<p>A que você souber e tiver conhecimento de algum material que queira compartilhar. Infelizmente não terei como assegurar a qualidade da contribuição se ela for, por exemplo, em chinês ou árabe - mas pra isso a gente confia a comunidade.</p>
+
+<h3>Mas eu não sei usar git&#8230;</h3>
+
+<p>Sugiro que dê uma olhada no tópico <a href="http://learnhowtocode.in/git/">Learn How to Use Git</a>, que inclusive contém material em português. 15 minutos já devem ser o suficiente para te ajudar nesse caso.</p>
+
+<p>Mas se não é de seu interesse aprender agora como usar Git, também pode enviar um e-mail para <a href="mailto:contact@learhowtocode.in">contact@learnhowtocode.in</a> com os links e suas respectivas descrições.</p>
+
+<hr />
+
+<p>Por isso existir, devo agradecer:</p>
+
+<ul>
+<li><strong><a href="http://robertosoares.me">Roberto Soares</a></strong> - pelo apoio e linhas de código;</li>
+<li><strong>meus colegas de faculdade</strong> - pelas perguntas do início do post, estopim para que o projeto existisse.</li>
+</ul>
+
+
+<p>Espero que aproveitem.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Almoço PythOnRio @ Barra da Tijuca]]></title>

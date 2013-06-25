@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Python, | Renata Carreira]]></title>
+  <title><![CDATA[Category: python, | Renata Carreira]]></title>
   <link href="http://dev.renatacarreira.com/blog/categories/python/atom.xml" rel="self"/>
   <link href="http://dev.renatacarreira.com/"/>
-  <updated>2013-06-07T12:36:28-03:00</updated>
+  <updated>2013-06-24T22:40:02-03:00</updated>
   <id>http://dev.renatacarreira.com/</id>
   <author>
     <name><![CDATA[Renata Carreira]]></name>
